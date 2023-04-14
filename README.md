@@ -1,6 +1,6 @@
 # Towards Scalable and Robust Structured Bandits: A Meta-Learning Framework
 
-This repository is the official implementation of the paper [Towards Scalable and Robust Structured Bandits: A Meta-Learning Framework]() in Python. 
+This repository is the official implementation of the paper [Towards Scalable and Robust Structured Bandits: A Meta-Learning Framework](https://arxiv.org/pdf/2202.13227.pdf) in Python. 
 
 >📋  **Abstract**: Online learning in large-scale structured bandits is known to be challenging due to the curse of dimensionality. In this paper, we propose a unified meta-learning framework for a general class of structured bandit problems where the  parameter space can be factorized to item-level. The novel bandit algorithm is general to be applied to many popular structured bandit problems, scalable to the huge parameter and action spaces, and robust to the generalization model specification. At the core of this framework is a Bayesian hierarchical model that allows information sharing among items via their features, upon which we design a meta Thompson sampling algorithm. Three representative examples are discussed thoroughly. Both theoretical and numerical results support the usefulness of the proposed method. 
 
