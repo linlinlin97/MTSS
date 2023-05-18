@@ -59,3 +59,21 @@ To generate the plots(figures) included in the paper, the following script is us
 3. Within the Main Folder, create two empty folders `/res` and `/log` to save simulation results and create another empty folder `/fig` to save figures;
 4. Run the corresponding experiment scripts to get the simulation/real experiment results;
 5. Analyze the results and get the figure by running the corresponding code in the `plot.ipynb`.
+
+## Citations
+Please cite the following publications if you make use of the material here.
+- Wan, R., Ge, L., & Song, R. (2023, April). Towards scalable and robust structured bandits: A meta-learning framework. In International Conference on Artificial Intelligence and Statistics (pp. 1144-1173). PMLR.
+
+```
+@inproceedings{wan2023towards,
+  title={Towards scalable and robust structured bandits: A meta-learning framework},
+  author={Wan, Runzhe and Ge, Lin and Song, Rui},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={1144--1173},
+  year={2023},
+  organization={PMLR}
+}
+```
+## License
+
+All content in this repository is licensed under the MIT license.
